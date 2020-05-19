@@ -1,0 +1,9 @@
+{
+  "name": "monorepo-pnp-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
